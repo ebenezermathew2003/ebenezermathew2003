@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezermathew2003&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezermathew2003" /> </p>
 
-- 🌱 I’m currently learning :**DSA, PHP**
+- 🌱 I’m currently learning :**DSA,DevOps**
 
 - 📫 How to reach me :**ebenezermathew0711@gmail.com**
 
