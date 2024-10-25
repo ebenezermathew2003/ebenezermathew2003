@@ -1,26 +1,65 @@
 <h1 align="center">Hi 👋, I'm Ebenezer Mathew</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezermathew2003&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezermathew2003" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ebenezermathew2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 
-- 🌱 I’m currently learning :**DSA,DevOps**
-
-- 📫 How to reach me :**ebenezermathew0711@gmail.com**
+- 🌱 I’m currently learning **DSA, DevOps**
+- 📫 How to reach me: **ebenezermathew0711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ebenezer-mathew-32b6521ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebenezer-mathew-32b6521ba" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ebenezer11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ebenezer11" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/jqoKDUbwav/" target="blank"><img align="center" src="data:image/png;base64,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" alt="ebenezer11" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ebenezer-mathew-32b6521ba" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/ebenezer11" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/jqoKDUbwav/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenezermathew2003&show_icons=true&locale=en&layout=compact" alt="ebenezermathew2003" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenezermathew2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebenezermathew2003&show_icons=true&locale=en" alt="ebenezermathew2003" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebenezermathew2003&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezermathew2003&" alt="ebenezermathew2003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezermathew2003&" alt="GitHub Streak Stats" /></p>
